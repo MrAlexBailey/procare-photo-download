@@ -1,5 +1,5 @@
-1) Download and install python - any version should work
+1) Download and install python - most recent version preferred
 2) From this directory:
-    a) run `pip install -r requirements.txt`
-    b) add you login credentials to the top of `downloader.py`
-    c) run `python downloader.py`
+    a) Run `pip install -r requirements.txt`
+    c) Run `python downloader.py` or simply doubly click `downloader.py`
+    c) Follow directions on the GUI
